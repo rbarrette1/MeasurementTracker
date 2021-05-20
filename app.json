@@ -1,0 +1,12 @@
+{
+  "name": "MeasurementTracker",
+  "displayName": "MeasurementTracker",
+  "expo": {
+    "name": "MeasurementTracker",
+    "slug": "MeasurementTracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
